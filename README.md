@@ -1,5 +1,10 @@
 # Warray
 
+[![Gem Version](https://badge.fury.io/rb/warray.svg)](http://badge.fury.io/rb/warray)
+[![Build Status](https://travis-ci.org/gabulyaz/warray.svg?branch=master)](https://travis-ci.org/gabulyaz/warray)
+[![Code Climate](https://codeclimate.com/github/gabulyaz/luhn_pro/badges/gpa.svg)](https://codeclimate.com/github/gabulyaz/luhn_pro)
+
+
 A simple weighted array implementation.
 
 ## Installation
