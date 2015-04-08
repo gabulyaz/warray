@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/warray.svg)](http://badge.fury.io/rb/warray)
 [![Build Status](https://travis-ci.org/gabulyaz/warray.svg?branch=master)](https://travis-ci.org/gabulyaz/warray)
-[![Code Climate](https://codeclimate.com/github/gabulyaz/luhn_pro/badges/gpa.svg)](https://codeclimate.com/github/gabulyaz/luhn_pro)
+[![Code Climate](https://codeclimate.com/repos/55252920e30ba060cd004967/badges/5089577f6fdc90e421c5/gpa.svg)](https://codeclimate.com/repos/55252920e30ba060cd004967/feed)
 
 
 A simple weighted array implementation.
